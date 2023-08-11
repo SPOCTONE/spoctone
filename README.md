@@ -13,9 +13,9 @@ I am Subham Patel 😃. I am from Navi Mumbai, India and currently doing my B.E 
 * The Odin Project
 ## ⚡ Technologies
 Talk to me about:
-- Full-stack development using **HTML, CSS, JavaScript and MERN stack**
+- Full-stack development using **🧨 TNT (TypeScript, Next.js Tailwind) stack**
 - Scripting using **Python, Ruby, Selenium**
-- Solving questions about Data structures and algorithms in **C/C++ and Java**
+- Solving questions about Data structures and algorithms in **Java**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Click here!](https://spoctone.github.io)
